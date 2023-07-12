@@ -1,8 +1,8 @@
 # Simulating individual movement in fish
 
-Data on the positions and movement statistics of 60 individual three-spined stickleback (*Gasterosteus aculeatus*) fish are stored (as an object in R data format) in the associated data file fishData.rds. The code below details the structure of this object.
+Data on the positions and movement statistics of 60 individual three-spined stickleback (*Gasterosteus aculeatus*) fish are available from the University of Lincoln Repository, https://eprints.lincoln.ac.uk/id/eprint/55426/ (as an object in R data format, fishData.rds).
 
-Load the data file fishData.rds
+Load the object
 
 ```R
 fishData <- readRDS(file.choose())
