@@ -1,6 +1,6 @@
 # Simulating individual movement in fish
 
-Data on the positions and movement statistics of 60 individual three-spined stickleback (*Gasterosteus aculeatus*) fish are available from the University of Lincoln Repository, https://eprints.lincoln.ac.uk/id/eprint/55426/ (as an object in R data format, fishData.rds).
+Data on the positions and movement statistics of 60 individual three-spined stickleback (*Gasterosteus aculeatus*) fish are available from the University of Lincoln Repository, [https://eprints.lincoln.ac.uk/id/eprint/55426/](https://repository.lincoln.ac.uk/ndownloader/files/43767666) (as an object in R data format, fishData.rds).
 
 Load the object
 
